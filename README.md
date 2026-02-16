@@ -41,7 +41,7 @@ Idea by `@literally.barbarossa`
   - The block does not need to have any functionality.
 - customType%
   - Records:
-    - PenguinMod Unsandboxed _[113 bytes](https://discord.com/channels/1033551490331197462/1470298832410771649/1473026785426804841)_
+    - PenguinMod Unsandboxed _[109 bytes](https://discord.com/channels/1033551490331197462/1470298832410771649/1473028422916767794)_
   - Must add a non-command block that always returns an instance of a custom type with a valid `customId`.
   - It should be possible with blocks alone to set the `my variable` variable to the return value of the block.
   - After setting the `my variable` variable to the return value of the block, the project should save without errors.
