@@ -43,7 +43,8 @@ Idea by `@literally.barbarossa`
   - Records:
     - PenguinMod Unsandboxed _[160 bytes](https://discord.com/channels/1033551490331197462/1470298832410771649/1473020689752522772)_
   - Must add a non-command block that always returns an instance of a custom type with a valid `customId`.
-  - After setting the `my variable` variable to the return value of the aforementioned block, the project should save without errors.
+  - It should be possible with blocks alone to set the `my variable` variable to the return value of the block.
+  - After setting the `my variable` variable to the return value of the block, the project should save without errors.
   - After saving the project to a `pmp` file, the project should be loadable in a blank editor tab.
   - Upon loading the project file, the variable should still contain an instance of the same custom type with the same `customId`.
 
