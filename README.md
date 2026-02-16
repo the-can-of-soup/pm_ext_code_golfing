@@ -19,14 +19,14 @@ Idea by `@literally.barbarossa`
 ## Categories
 - any%
   - Records:
-    - PenguinMod Unsandboxed _no submissions_
-    - TurboWarp Unsandboxed _no submissions_
+    - PenguinMod Unsandboxed _[42 bytes](https://discord.com/channels/1033551490331197462/1470298832410771649/1473006597767958690)_
+    - TurboWarp Unsandboxed _[42 bytes](https://discord.com/channels/1033551490331197462/1470298832410771649/1473006597767958690)_
   - Extension tab must appear.
   - Loading a pre-existing extension **is allowed.**
 - unique%
   - Records:
-    - PenguinMod Unsandboxed _[record 50 bytes](https://discord.com/channels/1033551490331197462/1470298832410771649/1473003380388397056)_
-    - TurboWarp Unsandboxed _[record 43 bytes](https://discord.com/channels/1033551490331197462/1470298832410771649/1470302145055297546)_
+    - PenguinMod Unsandboxed _[50 bytes](https://discord.com/channels/1033551490331197462/1470298832410771649/1473003380388397056)_
+    - TurboWarp Unsandboxed _[43 bytes](https://discord.com/channels/1033551490331197462/1470298832410771649/1470302145055297546)_
   - Extension tab must appear.
 - ACE%
   - Records:
