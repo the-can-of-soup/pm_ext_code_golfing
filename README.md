@@ -25,7 +25,7 @@ Idea by `@literally.barbarossa`
   - Loading a pre-existing extension **is allowed.**
 - unique%
   - Records:
-    - PenguinMod Unsandboxed _[45 bytes](https://discord.com/channels/1033551490331197462/1470298832410771649/1473018454666641501)_
+    - PenguinMod Unsandboxed _[44 bytes](https://discord.com/channels/1033551490331197462/1470298832410771649/1473019948036133017)_
     - TurboWarp Unsandboxed _[43 bytes](https://discord.com/channels/1033551490331197462/1470298832410771649/1470302145055297546)_
   - Extension tab must appear.
 - ACE%
