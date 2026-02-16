@@ -14,6 +14,7 @@ Idea by `@literally.barbarossa`
   - No other extensions may be loaded before or after loading the submission when testing.
   - Loading a pre-existing extension is not allowed.
   - PenguinMod devs cannot ["toss random shit into the vm to make this more optimized"](https://discord.com/channels/1033551490331197462/1470298832410771649/1473014091143446561).
+  - Completing the criteria for the category in a different browser tab from the one that loaded the extension or in the same tab but after a refresh is not a valid submission.
 
 ## Categories
 - any%
