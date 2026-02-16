@@ -39,5 +39,10 @@ Idea by `@literally.barbarossa`
     - TurboWarp Unsandboxed _[67 bytes](https://discord.com/channels/1033551490331197462/1470298832410771649/1470593834512683171)_
   - Must add a block to the palette.
   - The block does not need to have any functionality.
+- customType%
+  - Records:
+    - PenguinMod Unsandboxed _no submissions_
+  - Must add a block that always returns an instance of a custom type with a valid `customId`.
+  - After setting the `my variable` variable to the return value of the aforementioned block and saving the project to a `pmp` file, the project should be loadable in a blank editor tab, and upon loading, the variable should still contain an instance of the same custom type with the same `customId`.
 
 **Feel free to suggest more categories!**
