@@ -47,5 +47,12 @@ Idea by `@literally.barbarossa`
   - After setting the `my variable` variable to the return value of the block, the project should save without errors.
   - After saving the project to a `pmp` file, the project should be loadable in a blank editor tab.
   - Upon loading the project file, the variable should still contain an instance of the same custom type with the same `customId`.
+- move11steps%
+  - Records:
+    - PenguinMod Unsandboxed _no submissions_
+  - Must add a command block with the text `move [11] steps` with the color of the Motion category.
+  - The block must move the current target in the direction it is facing 11 pixels if the input is not modified.
+  - The behavior when the input _is_ modified (for example if the user types `12` instead of `11`) does not matter.
+  - The block must also cause `vm.runtime.redrawRequested` to be truthy after being run.
 
 **Feel free to suggest more categories!**
